@@ -1,5 +1,11 @@
 # CampusRide — API de Caronas Solidárias
 
+RMs:
+
+Kayque Duarte - 567980
+Gabriel Correa - 567903
+Eric Maciel - 567398
+
 API REST para a plataforma de caronas solidárias entre alunos de uma
 universidade. Um motorista publica uma carona; outros alunos consultam e
 reservam vaga nela.
